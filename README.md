@@ -15,4 +15,4 @@ A Machine Learning web application that predicts a student's final grade using M
 - Joblib
 
 ## 👨‍💻 Author
-Omar
+Omar DRAOUY
